@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroQuiz</string>
+    <string name="usernamehint"><font size="12">Sadece Alfa-Numerik Karakter Giriniz</font></string>
 </resources>
