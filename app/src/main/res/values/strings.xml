@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AndroQuiz</string>
+    <string name="kullaniciAdi">kAdi</string>
+    <string name="Dogru">Doğru</string>
+    <string name="Yanlis">Yanlış</string>
+    <string name="bilgi">bilgi</string>
+
+
 </resources>

@@ -2,5 +2,11 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="acikYesil">#009688</color>
+    <color name="turuncu">#ff9800</color>
+    <color name="beyaz">#ffffff</color>
+    <color name="siyah">#000000</color>
+    <color name="kirmizi">#ff00</color>
+    <color name="acikTurkuaz">#b2dfdb</color>
 </resources>
