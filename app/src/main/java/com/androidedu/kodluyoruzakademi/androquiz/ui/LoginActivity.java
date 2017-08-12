@@ -21,7 +21,6 @@ public class LoginActivity extends AppCompatActivity implements TextWatcher, Vie
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-
         initView();
     }
 
@@ -35,9 +34,7 @@ public class LoginActivity extends AppCompatActivity implements TextWatcher, Vie
     }
 
     private void initEvent() {
-
         btnLogin.setEnabled(false);
-
         edtUserName.addTextChangedListener(this);
         edtPassword.addTextChangedListener(this);
         btnLogin.setOnClickListener(this);

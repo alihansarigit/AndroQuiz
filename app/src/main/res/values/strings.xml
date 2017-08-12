@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">AndroQuiz</string>
     <string name="usernamehint"><font size="12">Sadece Alfa-Numerik Karakter Giriniz</font></string>
+
+    <string-array name="Soru1">
+        <item>Soru 1</item>
+        <item>Bu Kaçıncı Soru ?</item>
+        <item>A-) 1</item>
+        <item>B-) 2</item>
+        <item>C-) 3</item>
+        <item>D-) 4</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sonuc">SonucActivity</string>
 </resources>
