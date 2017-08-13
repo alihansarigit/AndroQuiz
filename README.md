@@ -8,5 +8,5 @@ Activity - Fragment , Fragment - Activity, Activity - Activity kaç farklı veri
 Bu veri taşıma yollarının dezavantajları nelerdir?
 -
 Bu veri taşıma yollarından en performanslı olanı hangisidir ve neden?
--
+- Branş seçildimi
 
